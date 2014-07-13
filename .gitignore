@@ -1,0 +1,6 @@
+TestResults/
+*.suo
+FizzBuzz/bin/
+FizzBuzz/obj/
+FizzBuzzTests/bin/
+FizzBuzzTests/obj/
